@@ -1,0 +1,5 @@
+bs4
+openai
+regex
+beautifulsoup4
+requests
